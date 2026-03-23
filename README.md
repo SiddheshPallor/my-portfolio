@@ -14,7 +14,7 @@ This project demonstrates hosting a static website using AWS S3 and delivering i
 8. Enabled HTTPS
 
 ## 🌐 Live Website
-[https://your-cloudfront-link](https://d1z76upk59hter.cloudfront.net/)
+https://d1z76upk59hter.cloudfront.net/
 
 ## 📸 Screenshots
 (Attached separately)
